@@ -1,0 +1,15 @@
+{
+  "name": "project-pepiline",
+  "version": "1.0.0",
+  "description": "Un proyecto simple de Node.js para demostrar una pipeline de CI/CD",
+  "main": "hola_mundo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
